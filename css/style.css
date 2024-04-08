@@ -129,9 +129,7 @@ img {
  ************************************************/
 
 @media screen and (max-width: 768px) {
-    .container{
-        background-color: red;
-    }
+    
 
     .lessons{
         display: flex;
@@ -147,9 +145,7 @@ img {
 }
 
 @media screen and (max-width: 480px) {
-    .container{
-        background-color: gold;
-    }
+    
 
     .lessons{
         display: flex;
